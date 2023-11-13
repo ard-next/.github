@@ -2,7 +2,7 @@
 
 Welcome to our public GitHub organization, a hub for innovative open-source software projects in the context of [ARD](https://en.wikipedia.org/wiki/ARD_(broadcaster)) (Germany's joint organisation of public broadcasters). <!-- Here, we collaborate on cutting-edge solutions that shape the future of broadcasting. Discover a range of projects from web technologies to broadcasting tools and join our vibrant community of developers. -->
 
-For internal or semi-open projects see https://gitlab.ard.de/public/ – which in contrast to this org speciffcally requires an account from one of our member organizations to collaborate.
+For internal or semi-open projects see https://gitlab.ard.de/public/ – which in contrast to GitHub requires a user account from one of our member organizations to collaborate.
 
 For internal or semi-open projects, please explore https://gitlab.ard.de/public/. Unlike this GitHub organization, gitlab.ard.de specifically requires an account from one of the ARD member organizations for active collaboration.
 
