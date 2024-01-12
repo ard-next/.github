@@ -20,3 +20,6 @@ Further details can be found in the [ARD Wiki](https://confluence.ard.de/display
 ## Related orgs
 
 * https://github.com/ard-data
+* https://github.com/zdf-opensource
+* https://github.com/ebu
+* https://github.com/bbc
